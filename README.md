@@ -45,12 +45,10 @@ Phishing remains one of the most prevalent cybersecurity threats, involving dece
    - ROC and Precision-Recall curves
 
 ---
-. Our best-
-performing Random Forest model achieved 96.14% accuracy
+Our best-performing Random Forest model achieved 96.14% accuracy
 and an F1-score of 0.9516, demonstrating the effectiveness of
 text-based classification approaches for phishing detection. The
-model’s high recall rate (96.59%) for phishing emails is particu-
-larly valuable for security applications where missing malicious
+model’s high recall rate (96.59%) for phishing emails is particularly valuable for security applications where missing malicious
 content poses significant risks.
 
 ---
